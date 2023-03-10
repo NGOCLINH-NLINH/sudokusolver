@@ -1,2 +1,2 @@
 # sudokusolver
-TUH
+S1
